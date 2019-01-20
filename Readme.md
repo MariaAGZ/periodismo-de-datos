@@ -95,7 +95,19 @@ Cywing es un emulador de la terminal, que imita el *sistema operativo Unix*. Es 
 Html es un lenguaje de marcas o elementos. Los hay de varios tipos: 
 1. bloque (titular)
 2. de línea (cursivas) 
+
 **<** inicio nombre del elemento fin **/>** tipo de documento que es. 
+
+**Documento html**
+
+1. head (lo único que muestra es el title, luego vienen los metadatos) 
+2. body (es donde está el Css: hojas de estilo encascadas, lo que hace bonito o feo una página web, forma de maquetar)
+
+**Lenguaje informático** 
+
+< body (element, azul) class (atributo, rojo)=”is-preload(valor, verde) ”
+
+Los colores corresponde a tono que se utiliza en el editor nano del código en indext.html de Cywing
 
 -------
 ## **GUÍA DE CÓMO FUNCIONA EL EDITOR DE TEXTO**: 
