@@ -110,7 +110,8 @@ Html es un lenguaje de marcas o elementos. Los hay de varios tipos:
 **Documento html**
 
 1. head (lo único que muestra es el title, luego vienen los metadatos) 
-2. body (es donde está el Css: hojas de estilo encascadas, lo que hace bonito o feo una página web, forma de maquetar)
+2. body (es donde está el Css: hojas de estilo encascadas, lo que hace bonito o feo una página web, forma de maquetar).
+3. extra extra    
 
 **Lenguaje informático** 
 
