@@ -56,7 +56,16 @@ Journo-Programmer.
 Github, https://github.com , es un repositorio de proyectos, un software que funciona a tavés de trabajo colaborativo y distributivo. 
 
 ## **CYWING**
-Cywing es un emulador de la terminal, que imita el *sistema operativo Unix*. Es una consola que funciona a través de líneas de comandos.
+Cywing es un emulador de la terminal, que imita el *sistema operativo Unix*. Es una consola que funciona a través de líneas de comandos.Es una forma más rápida de comunicarse con el ordenador. 
+
+***A TENER EN CUENTA:***
+
+Cuando se *guardan archivos*, en  vez de dejar espacios, es mejor poner un " _ " . Por ejemplo: periodismo de datos, mejor poner Periodismo_de_datos. Además, no se debe de de poner poner mayusculas porque se pierde más tiempo. 
+
+Hay dos tipos de *rutas* para acceder a un archivo o directorio: 
+
+1. Ruta absoluta: Es la ruta entera. 
+2. Ruta relativa: Es la ruta más corta. 
 
 ## **COMANDOS DE CYWING**
 
