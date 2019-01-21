@@ -100,7 +100,7 @@ Hay dos tipos de *rutas* para acceder a un archivo o directorio:
 - `nano read.me o index.html`: editor de texto para cambiar el contenido de read.me de github o el de index.html de nuestra página web. 
 - `apt-cyg install (nombre del programa)`: Instal un programa en la consola. apt-cyg install wget, por ejemplo, instala en la consola el wget. 
 
-## ***HTML***
+## **HTML**
 Html es un lenguaje de marcas o elementos. Los hay de varios tipos: 
 1. bloque (titular)
 2. de línea (cursivas) 
